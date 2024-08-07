@@ -11,7 +11,7 @@
    </rect>
   </property>
   <property name="windowTitle">
-   <string>Client（作者：黄伟杰-202011305009）</string>
+   <string>Client</string>
   </property>
   <widget class="QWidget" name="centralwidget">
    <widget class="QLineEdit" name="ipnum">
